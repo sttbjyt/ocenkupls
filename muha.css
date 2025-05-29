@@ -1,0 +1,32 @@
+body{
+    background-color: #AF9884;
+}
+
+.home {
+    position: relative;
+    bottom: 285px;
+    left: 650px;
+}
+.reg {
+    position: relative;
+    left: 750px;
+    bottom: 283px;
+}
+
+h1 {
+    color: #4E3C2B;
+    font-family: "Inknut Antiqua", serif;
+  font-weight: 300;
+  font-style: normal;
+  width: 985px;
+  position: relative;
+  bottom: 150px;
+  left: 80px;
+}
+.devka {
+    position: relative;
+    left: 1000px;
+    bottom: 500px;
+    width: 1038;
+    height: 1038;
+}
