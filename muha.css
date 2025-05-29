@@ -74,7 +74,13 @@ h1 {
 .fan {
     position: relative;
     left: 50px;
-    bottom: 950px;
+    bottom: 980px;
+}
+
+.rom {
+    position: relative;
+    left: 50px;
+    bottom: 930px;
 }
 
 .container {
