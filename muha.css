@@ -23,10 +23,45 @@ h1 {
   bottom: 150px;
   left: 80px;
 }
+.spisok {
+    background-color: #E9CDB5;
+    border: solid;
+    border-color: #C7A689;
+    border-radius: 63px;
+    position: relative;
+    border-width: 15px;
+width: 1000px;
+height: 600px;
+bottom: 1050px;
+left: 50px;
+
+}
+
+.one{
+    position: relative;
+    color: #4E3C2B;
+    font-family: "Inknut Antiqua", serif;
+    font-weight: 300px;
+    font-style: normal;
+    font-size: 48px;
+    left: 50px;
+}
+
+.two{
+    position: relative;
+    color: #4E3C2B;
+    font-family: "Inknut Antiqua", serif;
+    font-weight: 300px;
+    font-style: normal;
+    font-size: 48px;
+    left: 480px;
+    bottom: 530px;
+}
+
 .devka {
     position: relative;
     left: 1000px;
-    bottom: 500px;
-    width: 1038;
-    height: 1038;
+    bottom: 450px;
+    width: 900px;
+    height: 900px;
 }
