@@ -83,6 +83,12 @@ h1 {
     bottom: 930px;
 }
 
+.det {
+    position: relative;
+    left: 50px;
+    bottom:930px ;
+}
+
 .container {
     position: relative;
   padding: 16px;
