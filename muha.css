@@ -13,9 +13,10 @@ body{
     bottom: 283px;
 }
 
-li :hover{
-    
+li:hover {
+  color: #AF9884;
 }
+
 
 h1 {
     color: #4E3C2B;
