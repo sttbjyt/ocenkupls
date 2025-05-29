@@ -71,6 +71,12 @@ h1 {
     height: 900px;
 }
 
+.fan {
+    position: relative;
+    left: 50px;
+    bottom: 950px;
+}
+
 .container {
     position: relative;
   padding: 16px;
